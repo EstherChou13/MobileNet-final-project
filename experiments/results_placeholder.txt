@@ -1,0 +1,5 @@
+This directory will contain:
+- Accuracy and loss logs
+- FLOPs / parameter count analysis
+- Plots of training curves
+- Comparison tables for different width multipliers (α)
